@@ -1,0 +1,1481 @@
+[{
+ "country_name": "Afghanistan",
+ "dial_code": "+93",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891827/country_flags/afghanistan.gif",
+ "country_code": "AF",
+ "timezone": "UTC+04:30"
+ }, {
+ "country_name": "Albania",
+ "dial_code": "+355",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891831/country_flags/albania.gif",
+ "country_code": "AL",
+ "timezone": "UTC+01:00 (CET)"
+ }, {
+ "country_name": "Algeria",
+ "dial_code": "+213",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891828/country_flags/algeria.gif",
+ "country_code": "DZ",
+ "timezone": "UTC+01:00 (CET)"
+ }, {
+ "country_name": "American Samoa",
+ "dial_code": "+1 684",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891828/country_flags/american_samoa.gif",
+ "country_code": "AS",
+ "timezone": "UTC-11:00 (ST)"
+ }, {
+ "country_name": "Andorra",
+ "dial_code": "+376",
+ "country_code": "AD",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891830/country_flags/andorra.gif",
+ "timezone": "UTC+01:00 (CET)"
+ }, {
+ "country_name": "Angola",
+ "dial_code": "+244",
+ "country_code": "AO",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891829/country_flags/angola.gif",
+ "timezone": "UTC+01:00 (WAT)"
+ }, {
+ "country_name": "Anguilla",
+ "dial_code": "+1 264",
+ "country_code": "AI",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891830/country_flags/anguilla.gif",
+ "timezone": "UTC-04:00 (AST)"
+ }, {
+ "country_name": "Antigua and Barbuda",
+ "dial_code": "+1 268",
+ "country_code": "AG",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891831/country_flags/antigua_and_barbuda.gif",
+ "timezone": "UTC-04:00 (AST)"
+ }, {
+ "country_name": "Argentina",
+ "dial_code": "+54",
+ "country_code": "AR",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891832/country_flags/argentina.gif",
+ "timezone": "UTC-03:00 (ART)"
+ }, {
+ "country_name": "Armenia",
+ "dial_code": "+374",
+ "country_code": "AM",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891826/country_flags/armenia.gif",
+ "timezone": "UTC+04:00"
+ }, {
+ "country_name": "Aruba",
+ "dial_code": "+297",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891826/country_flags/aruba.gif",
+ "country_code": "AW",
+ "timezone": ""
+ }, {
+ "country_name": "Australia",
+ "dial_code": "+61",
+ "country_code": "AU",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891826/country_flags/australia.gif",
+ "timezone": "UTC+10:00 (AEST)"
+ }, {
+ "country_name": "Austria",
+ "dial_code": "+43",
+ "country_code": "AT",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891827/country_flags/austria.gif",
+ "timezone": "UTC+01:00 (CET)"
+ }, {
+ "country_name": "Azerbaijan",
+ "dial_code": "+994",
+ "country_code": "AZ",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891828/country_flags/azerbaijan.gif",
+ "timezone": "UTC+04:00"
+ }, {
+ "country_name": "Bahamas",
+ "dial_code": "+1 242",
+ "country_code": "BS",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891828/country_flags/bahamas.gif",
+ "timezone": "UTC-05:00 (EST)"
+ }, {
+ "country_name": "Bahrain",
+ "dial_code": "+973",
+ "country_code": "BH",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891828/country_flags/bahrain.gif",
+ "timezone": "UTC+03:00"
+ }, {
+ "country_name": "Bangladesh",
+ "dial_code": "+880",
+ "country_code": "BD",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891828/country_flags/bangladesh.gif",
+ "timezone": "UTC+06:00 (BDT)"
+ }, {
+ "country_name": "Barbados",
+ "dial_code": "+1 246",
+ "country_code": "BB",
+ "timezone": "UTC-04:00",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891828/country_flags/barbados.gif"
+ }, {
+ "country_name": "Belarus",
+ "dial_code": "+375",
+ "country_code": "BY",
+ "timezone": "UTC+03:00 (FET)",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891829/country_flags/belarus.gif"
+ }, {
+ "country_name": "Belgium",
+ "dial_code": "+32",
+ "country_code": "BE",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891829/country_flags/belgium.gif",
+ "timezone": "UTC+01:00 (CET)"
+ }, {
+ "country_name": "Belize",
+ "dial_code": "+501",
+ "country_code": "BZ",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891830/country_flags/belize.gif",
+ "timezone": "UTC-06:00"
+ }, {
+ "country_name": "Benin",
+ "dial_code": "+229",
+ "country_code": "BJ",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891830/country_flags/benin.gif",
+ "timezone": "UTC+01:00 (WAT)"
+ }, {
+ "country_name": "Bermuda",
+ "dial_code": "+1 441",
+ "country_code": "BM",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891831/country_flags/bermuda.gif",
+ "timezone": "UTC-04:00 (AST)"
+ }, {
+ "country_name": "Bhutan",
+ "dial_code": "+975",
+ "country_code": "BT",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891831/country_flags/bhutan.gif",
+ "timezone": "UTC+06:00 (BTT)"
+ }, {
+ "country_name": "Bosnia and Herzegovina",
+ "dial_code": "+387",
+ "country_code": "BA",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891832/country_flags/bosnia_and_herzegovina.gif",
+ "timezone": "UTC+01:00 (CET)"
+ }, {
+ "country_name": "Botswana",
+ "dial_code": "+267",
+ "country_code": "BW",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891832/country_flags/botswana.gif",
+ "timezone": "UTC+02:00 (CAT)"
+ }, {
+ "country_name": "Sint Maarten",
+ "dial_code": "+1",
+ "country_code": "SX",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891832/country_flags/sint_maarten.gif",
+ "timezone": "UTC-04:00 (AST)"
+ }, {
+ "country_name": "Brazil",
+ "dial_code": "+55",
+ "country_code": "BR",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891832/country_flags/brazil.gif",
+ "timezone": "UTC-03:00 (BrasÌlia time)"
+ }, {
+ "country_name": "British Indian Ocean Territory",
+ "dial_code": "+246",
+ "country_code": "IO",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891832/country_flags/british_indian_ocean_territory.gif",
+ "timezone": "UTC+06:00"
+ }, {
+ "country_name": "Bulgaria",
+ "dial_code": "+359",
+ "country_code": "BG",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891833/country_flags/bulgaria.gif",
+ "timezone": "UTC+02:00 (EET)"
+ }, {
+ "country_name": "Burkina Faso",
+ "dial_code": "+226",
+ "country_code": "BF",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891833/country_flags/burkina_faso.gif",
+ "timezone": "UTC (GMT)"
+ }, {
+ "country_name": "Burundi",
+ "dial_code": "+257",
+ "country_code": "BI",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891833/country_flags/burundi.gif",
+ "timezone": "UTC+02:00 (CAT)"
+ }, {
+ "country_name": "Cambodia",
+ "dial_code": "+855",
+ "country_code": "KH",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891834/country_flags/cambodia.gif",
+ "timezone": "UTC+07:00"
+ }, {
+ "country_name": "Cameroon",
+ "dial_code": "+237",
+ "country_code": "CM",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891834/country_flags/cameroon.gif",
+ "timezone": "UTC+01:00 (WAT)"
+ }, {
+ "country_name": "Canada",
+ "dial_code": "+1",
+ "country_code": "CA",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891834/country_flags/canada.gif",
+ "timezone": "UTC-06:00 (CST)"
+ }, {
+ "country_name": "Cape Verde",
+ "dial_code": "+238",
+ "country_code": "CV",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891834/country_flags/cape_verde.gif",
+ "timezone": "UTC-01:00 (Cape Verde Time)"
+ }, {
+ "country_name": "Cayman Islands",
+ "dial_code": "+ 345",
+ "country_code": "KY",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891835/country_flags/cayman_islands.gif",
+ "timezone": "UTC-05:00"
+ }, {
+ "country_name": "Central African Republic",
+ "dial_code": "+236",
+ "country_code": "CF",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891835/country_flags/central_african_republic.gif",
+ "timezone": "UTC+01:00 (WAT)"
+ }, {
+ "country_name": "Chad",
+ "dial_code": "+235",
+ "country_code": "TD",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891835/country_flags/chad.gif",
+ "timezone": "UTC+01:00 (WAT)"
+ }, {
+ "country_name": "Chile",
+ "dial_code": "+56",
+ "country_code": "CL",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891835/country_flags/chile.gif",
+ "timezone": "UTC-05:00"
+ }, {
+ "country_name": "Bouvet Island",
+ "dial_code": "+47",
+ "country_code": "CL",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891835/country_flags/Bouvet_island.gif",
+ "timezone": ""
+ }, {
+ "country_name": "China",
+ "dial_code": "+86",
+ "country_code": "CN",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891835/country_flags/china.gif",
+ "timezone": "UTC+08:00 (Chinese Standard Time)"
+ }, {
+ "country_name": "Christmas Island",
+ "dial_code": "+61",
+ "country_code": "CX",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891837/country_flags/christmas_island.gif",
+ "timezone": "UTC+07:00 (CXT)"
+ }, {
+ "country_name": "Colombia",
+ "dial_code": "+57",
+ "country_code": "CO",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891836/country_flags/colombia.gif",
+ "timezone": "UTC-05:00"
+ }, {
+ "country_name": "Comoros",
+ "dial_code": "+269",
+ "country_code": "KM",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891836/country_flags/comoros.gif",
+ "timezone": "UTC+03:00 (EAT)"
+ }, {
+ "country_name": "Congo",
+ "dial_code": "+242",
+ "country_code": "CG",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891836/country_flags/republic_of_the_congo.gif",
+ "timezone": "UTC+01:00 (WAT)"
+ }, {
+ "country_name": "Cook Islands",
+ "dial_code": "+682",
+ "country_code": "CK",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891837/country_flags/cook_islands.gif",
+ "timezone": "UTC-10:00"
+ }, {
+ "country_name": "Costa Rica",
+ "dial_code": "+506",
+ "country_code": "CR",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891837/country_flags/costa_rica.gif",
+ "timezone": "UTC-06:00"
+ }, {
+ "country_name": "Croatia",
+ "dial_code": "+385",
+ "country_code": "HR",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891838/country_flags/croatia.gif",
+ "timezone": "UTC+01:00 (CET)"
+ }, {
+ "country_name": "Cuba",
+ "dial_code": "+53",
+ "country_code": "CU",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891838/country_flags/cuba.gif",
+ "timezone": "UTC-05:00"
+ }, {
+ "country_name": "Cyprus",
+ "dial_code": "+357",
+ "country_code": "CY",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891838/country_flags/cyprus.gif",
+ "timezone": "UTC+02:00 (EET)"
+ }, {
+ "country_name": "Czech Republic",
+ "dial_code": "+420",
+ "country_code": "CZ",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891838/country_flags/czech_republic.gif",
+ "timezone": "UTC+01:00 (CET) (CRT)"
+ }, {
+ "country_name": "Denmark",
+ "dial_code": "+45",
+ "country_code": "DK",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891839/country_flags/denmark.gif",
+ "timezone": "UTC+01:00 (CET)"
+ }, {
+ "country_name": "Djibouti",
+ "dial_code": "+253",
+ "country_code": "DJ",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891839/country_flags/djibouti.gif",
+ "timezone": "UTC+03:00 (EAT)"
+ }, {
+ "country_name": "Dominica",
+ "dial_code": "+1 767",
+ "country_code": "DM",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891839/country_flags/dominica.gif",
+ "timezone": "UTC-04:00"
+ }, {
+ "country_name": "Dominican Republic",
+ "dial_code": "+1 849",
+ "country_code": "DO",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891839/country_flags/dominican_republic.gif",
+ "timezone": "UTC-04:00"
+ }, {
+ "country_name": "Ecuador",
+ "dial_code": "+593",
+ "country_code": "EC",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891839/country_flags/ecuador.gif",
+ "timezone": "UTC-05:00 (Ecuador Time)"
+ }, {
+ "country_name": "Egypt",
+ "dial_code": "+20",
+ "country_code": "EG",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891840/country_flags/egypt.gif",
+ "timezone": "UTC+02:00 (EET)"
+ }, {
+ "country_name": "El Salvador",
+ "dial_code": "+503",
+ "country_code": "SV",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891840/country_flags/el_salvador.gif",
+ "timezone": "UTC-06:00"
+ }, {
+ "country_name": "Equatorial Guinea",
+ "dial_code": "+240",
+ "country_code": "GQ",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891840/country_flags/equatorial_guinea.gif",
+ "timezone": "UTC+01:00 (WAT)"
+ }, {
+ "country_name": "Eritrea",
+ "dial_code": "+291",
+ "country_code": "ER",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891840/country_flags/eritrea.gif",
+ "timezone": "UTC+03:00 (EAT)"
+ }, {
+ "country_name": "Estonia",
+ "dial_code": "+372",
+ "country_code": "EE",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891841/country_flags/estonia.gif",
+ "timezone": "UTC+02:00 (EET)"
+ }, {
+ "country_name": "Ethiopia",
+ "dial_code": "+251",
+ "country_code": "ET",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891841/country_flags/ethiopia.gif",
+ "timezone": "UTC+03:00 (EAT)"
+ }, {
+ "country_name": "Faroe Islands",
+ "dial_code": "+298",
+ "country_code": "FO",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891841/country_flags/faroe_islands.gif",
+ "timezone": "UTC-01:00"
+ }, {
+ "country_name": "Fiji",
+ "dial_code": "+679",
+ "country_code": "FJ",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891842/country_flags/fiji.gif",
+ "timezone": "UTC+12:00"
+ }, {
+ "country_name": "Finland",
+ "dial_code": "+358",
+ "country_code": "FI",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891842/country_flags/finland.gif",
+ "timezone": "UTC+02:00 (EET)"
+ }, {
+ "country_name": "France",
+ "dial_code": "+33",
+ "country_code": "FR",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891842/country_flags/france.gif",
+ "timezone": "UTC+01:00 (CET)"
+ }, {
+ "country_name": "French Guiana",
+ "dial_code": "+594",
+ "country_code": "GF",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891842/country_flags/french_guiana.gif",
+ "timezone": "UTC-03:00 (PMST)"
+ }, {
+ "country_name": "French Polynesia",
+ "dial_code": "+689",
+ "country_code": "PF",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891843/country_flags/french_polynesia.gif",
+ "timezone": "UTC-10:00"
+ }, {
+ "country_name": "Gabon",
+ "dial_code": "+241",
+ "country_code": "GA",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891843/country_flags/gabon.gif",
+ "timezone": "UTC+01:00 (WAT)"
+ }, {
+ "country_name": "Gambia",
+ "dial_code": "+220",
+ "country_code": "GM",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891843/country_flags/gambia.gif",
+ "timezone": "UTC (GMT)"
+ }, {
+ "country_name": "Georgia",
+ "dial_code": "+995",
+ "country_code": "GE",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891843/country_flags/georgia.gif",
+ "timezone": "UTC+04:00"
+ }, {
+ "country_name": "Germany",
+ "dial_code": "+49",
+ "country_code": "DE",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891844/country_flags/germany.gif",
+ "timezone": "UTC+01:00 (CET)"
+ }, {
+ "country_name": "South Sudan",
+ "dial_code": "+211",
+ "country_code": "SS",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891844/country_flags/south_sudan.gif",
+ "timezone": "UTC+03:00 (EAT)"
+ }, {
+ "country_name": "Ghana",
+ "dial_code": "+233",
+ "country_code": "GH",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891844/country_flags/ghana.gif",
+ "timezone": "UTC (GMT)"
+ }, {
+ "country_name": "Gibraltar",
+ "dial_code": "+350",
+ "country_code": "GI",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891844/country_flags/gibraltar.gif",
+ "timezone": "UTC+01:00 (CET)"
+ }, {
+ "country_name": "Greece",
+ "dial_code": "+30",
+ "country_code": "GR",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891844/country_flags/greece.gif",
+ "timezone": "UTC+02:00 (EET)"
+ }, {
+ "country_name": "Greenland",
+ "dial_code": "+299",
+ "country_code": "GL",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891844/country_flags/greenland.gif",
+ "timezone": "UTC-03:00"
+ }, {
+ "country_name": "Grenada",
+ "dial_code": "+1 473",
+ "country_code": "GD",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891845/country_flags/grenada.gif",
+ "timezone": "UTC-04:00"
+ }, {
+ "country_name": "Guadeloupe",
+ "dial_code": "+590",
+ "country_code": "GP",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891845/country_flags/guadeloupe.gif",
+ "timezone": "UTC-04:00 (AST)"
+ }, {
+ "country_name": "Guam",
+ "dial_code": "+1 671",
+ "country_code": "GU",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891845/country_flags/guam.gif",
+ "timezone": "UTC+10:00 (ChT)"
+ }, {
+ "country_name": "Guatemala",
+ "dial_code": "+502",
+ "country_code": "GT",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891846/country_flags/guatemala.gif",
+ "timezone": "UTC-06:00"
+ }, {
+ "country_name": "Guinea",
+ "dial_code": "+224",
+ "country_code": "GN",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891845/country_flags/guinea.gif",
+ "timezone": "UTC (GMT)"
+ }, {
+ "country_name": "Guinea-Bissau",
+ "dial_code": "+245",
+ "country_code": "GW",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891846/country_flags/guinea_bissau.gif",
+ "timezone": "UTC (GMT)"
+ }, {
+ "country_name": "Guyana",
+ "dial_code": "+595",
+ "country_code": "GY",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891846/country_flags/guyana.gif",
+ "timezone": "UTC-04:00"
+ }, {
+ "country_name": "Haiti",
+ "dial_code": "+509",
+ "country_code": "HT",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891846/country_flags/haiti.gif",
+ "timezone": "UTC-05:00"
+ }, {
+ "country_name": "Honduras",
+ "dial_code": "+504",
+ "country_code": "HN",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891847/country_flags/honduras.gif",
+ "timezone": "UTC-06:00"
+ }, {
+ "country_name": "Hungary",
+ "dial_code": "+36",
+ "country_code": "HU",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891847/country_flags/hungary.gif",
+ "timezone": "UTC+01:00 (CET)"
+ }, {
+ "country_name": "Iceland",
+ "dial_code": "+354",
+ "country_code": "IS",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891847/country_flags/iceland.gif",
+ "timezone": "UTC (GMT)"
+ }, {
+ "country_name": "India",
+ "dial_code": "+91",
+ "country_code": "IN",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891848/country_flags/india.gif",
+ "timezone": "UTC+05:30 (IST)"
+ }, {
+ "country_name": "Indonesia",
+ "dial_code": "+62",
+ "country_code": "ID",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891848/country_flags/indonesia.gif",
+ "timezone": "UTC+08:00"
+ }, {
+ "country_name": "Iraq",
+ "dial_code": "+964",
+ "country_code": "IQ",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891848/country_flags/iraq.gif",
+ "timezone": "UTC+03:00"
+ }, {
+ "country_name": "Ireland",
+ "dial_code": "+353",
+ "country_code": "IE",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891848/country_flags/ireland.gif",
+ "timezone": "UTC (WET)"
+ }, {
+ "country_name": "Israel",
+ "dial_code": "+972",
+ "country_code": "IL",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891849/country_flags/israel.gif",
+ "timezone": "UTC+02:00 (IST)"
+ }, {
+ "country_name": "Italy",
+ "dial_code": "+39",
+ "country_code": "IT",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891849/country_flags/italy.gif",
+ "timezone": "UTC+01:00 (CET)"
+ }, {
+ "country_name": "Jamaica",
+ "dial_code": "+1 876",
+ "country_code": "JM",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891849/country_flags/jamaica.gif",
+ "timezone": "UTC-05:00"
+ }, {
+ "country_name": "Japan",
+ "dial_code": "+81",
+ "country_code": "JP",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891849/country_flags/japan.gif",
+ "timezone": "UTC+09:00 (JST)"
+ }, {
+ "country_name": "Jordan",
+ "dial_code": "+962",
+ "country_code": "JO",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891850/country_flags/jordan.gif",
+ "timezone": "UTC+02:00"
+ }, {
+ "country_name": "Kazakhstan",
+ "dial_code": "+7 7",
+ "country_code": "KZ",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891850/country_flags/kazakhstan.gif",
+ "timezone": "UTC+05:00"
+ }, {
+ "country_name": "Kenya",
+ "dial_code": "+254",
+ "country_code": "KE",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891850/country_flags/kenya.gif",
+ "timezone": "UTC+03:00 (EAT)"
+ }, {
+ "country_name": "Kiribati",
+ "dial_code": "+686",
+ "country_code": "KI",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891850/country_flags/kiribati.gif",
+ "timezone": "UTC+13:00"
+ }, {
+ "country_name": "Kuwait",
+ "dial_code": "+965",
+ "country_code": "KG",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891851/country_flags/kuwait.gif",
+ "timezone": "UTC+03:00 (Arabia Standard Time)"
+ }, {
+ "country_name": "Kyrgyzstan",
+ "dial_code": "+996",
+ "country_code": "KG",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891851/country_flags/kyrgyzstan.gif",
+ "timezone": "UTC+06:00"
+ }, {
+ "country_name": "Latvia",
+ "dial_code": "+371",
+ "country_code": "LV",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891852/country_flags/latvia.gif",
+ "timezone": "UTC+02:00 (EET)"
+ }, {
+ "country_name": "Laos",
+ "dial_code": "+856",
+ "country_code": "LA",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891852/country_flags/laos.gif",
+ "timezone": "ICT"
+ 
+ }, {
+ "country_name": "Lebanon",
+ "dial_code": "+961",
+ "country_code": "LB",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891852/country_flags/lebanon.gif",
+ "timezone": "UTC+02:00 (EET)"
+ }, {
+ "country_name": "Lesotho",
+ "dial_code": "+266",
+ "country_code": "LS",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891852/country_flags/lesotho.gif",
+ "timezone": "UTC+02:00"
+ }, {
+ "country_name": "Liberia",
+ "dial_code": "+231",
+ "country_code": "LR",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891852/country_flags/liberia.gif",
+ "timezone": "UTC (GMT)"
+ }, {
+ "country_name": "Liechtenstein",
+ "dial_code": "+423",
+ "country_code": "LI",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891853/country_flags/liechtenstein.gif",
+ "timezone": "UTC+01:00 (CET)"
+ }, {
+ "country_name": "Lithuania",
+ "dial_code": "+370",
+ "country_code": "LT",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891853/country_flags/lithuania.gif",
+ "timezone": "UTC+02:00 (EET)"
+ }, {
+ "country_name": "Luxembourg",
+ "dial_code": "+352",
+ "country_code": "LU",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891853/country_flags/luxembourg.gif",
+ "timezone": "UTC+01:00 (CET)"
+ }, {
+ "country_name": "Madagascar",
+ "dial_code": "+261",
+ "country_code": "MG",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891853/country_flags/madagascar.gif",
+ "timezone": "UTC+03:00 (EAT)"
+ }, {
+ "country_name": "Malawi",
+ "dial_code": "+265",
+ "country_code": "MW",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891854/country_flags/malawi.gif",
+ "timezone": "UTC+02:00 (CAT)"
+ }, {
+ "country_name": "Malaysia",
+ "dial_code": "+60",
+ "country_code": "MY",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891854/country_flags/malaysia.gif",
+ "timezone": "UTC+08:00 (Malaysian Standard Time)"
+ }, {
+ "country_name": "Maldives",
+ "dial_code": "+960",
+ "country_code": "MV",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891854/country_flags/maldives.gif",
+ "timezone": "UTC+05:00"
+ }, {
+ "country_name": "Mali",
+ "dial_code": "+223",
+ "country_code": "ML",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891854/country_flags/mali.gif",
+ "timezone": "UTC (GMT)"
+ }, {
+ "country_name": "Malta",
+ "dial_code": "+356",
+ "country_code": "MT",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891854/country_flags/malta.gif",
+ "timezone": "UTC+01:00 (CET)"
+ }, {
+ "country_name": "Marshall Islands",
+ "dial_code": "+692",
+ "country_code": "MH",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891854/country_flags/marshall_islands.gif",
+ "timezone": "UTC+12:00"
+ }, {
+ "country_name": "Martinique",
+ "dial_code": "+596",
+ "country_code": "MQ",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891855/country_flags/martinique.gif",
+ "timezone": "UTC-04:00 (AST)"
+ }, {
+ "country_name": "Mauritania",
+ "dial_code": "+222",
+ "country_code": "MR",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891855/country_flags/mauritania.gif",
+ "timezone": "UTC (GMT)"
+ }, {
+ "country_name": "Mauritius",
+ "dial_code": "+230",
+ "country_code": "MU",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891855/country_flags/mauritius.gif",
+ "timezone": "UTC+04:00 (Mauritius Time)"
+ }, {
+ "country_name": "Mayotte",
+ "dial_code": "+262",
+ "country_code": "YT",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891855/country_flags/mayotte.gif",
+ "timezone": "UTC+03:00"
+ }, {
+ 
+ "country_name": "Reunion",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891864/country_flags/reunion.gif",
+ "dial_code": "+262",
+ "timezone": "UTC+04:00",
+ "country_code": "RE"
+ }, {
+ "country_name": "Mexico",
+ "dial_code": "+52",
+ "country_code": "MX",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891856/country_flags/mexico.gif",
+ "timezone": "UTC-07:00 (MT)"
+ }, {
+ "country_name": "Monaco",
+ "dial_code": "+377",
+ "country_code": "MC",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891856/country_flags/monaco.gif",
+ "timezone": "UTC+01:00 (CET)"
+ }, {
+ "country_name": "Mongolia",
+ "dial_code": "+976",
+ "country_code": "MN",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891857/country_flags/mongolia.gif",
+ "timezone": "UTC+08:00"
+ }, {
+ "country_name": "Montenegro",
+ "dial_code": "+382",
+ "country_code": "ME",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891857/country_flags/montenegro.gif",
+ "timezone": "UTC+01:00 (CET)"
+ }, {
+ "country_name": "Montserrat",
+ "dial_code": "+1 664",
+ "country_code": "MS",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891858/country_flags/montserrat.gif",
+ "timezone": "UTC-04:00 (AST)"
+ }, {
+ "country_name": "Morocco",
+ "dial_code": "+212",
+ "country_code": "MA",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891857/country_flags/morocco.gif",
+ "timezone": "UTC (WET)"
+ }, {
+ "country_name": "Myanmar",
+ "dial_code": "+95",
+ "country_code": "MM",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891858/country_flags/myanmar.gif",
+ "timezone": "UTC+06:30 (MST)"
+ }, {
+ "country_name": "Namibia",
+ "dial_code": "+264",
+ "country_code": "NA",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891858/country_flags/namibia.gif",
+ "timezone": "UTC+01:00 (WAT)"
+ }, {
+ "country_name": "Nauru",
+ "dial_code": "+674",
+ "country_code": "NR",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891858/country_flags/nauru.gif",
+ "timezone": "UTC+12:00"
+ }, {
+ "country_name": "Nepal",
+ "dial_code": "+977",
+ "country_code": "NP",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891859/country_flags/nepal.gif",
+ "timezone": "UTC+05:45 (Nepal Time)"
+ }, {
+ "country_name": "Netherlands",
+ "dial_code": "+31",
+ "country_code": "NL",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891859/country_flags/netherlands.gif",
+ "timezone": "UTC+01:00 (CET)"
+ }, {
+ "country_name": "Caribbean Netherlands",
+ "dial_code": "+599",
+ "country_code": "BQ",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891859/country_flags/netherlands.gif",
+ "timezone": "UTC-05:00"
+ }, {
+ "country_name": "New Caledonia",
+ "dial_code": "+687",
+ "country_code": "NC",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891859/country_flags/new_caledonia.gif",
+ "timezone": "UTC+11:00"
+ }, {
+ "country_name": "New Zealand",
+ "dial_code": "+64",
+ "country_code": "NZ",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891859/country_flags/new_zealand.gif",
+ "timezone": "UTC+12:00"
+ }, {
+ "country_name": "Nicaragua",
+ "dial_code": "+505",
+ "country_code": "NI",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891859/country_flags/nicaragua.gif",
+ "timezone": "UTC-06:00"
+ }, {
+ "country_name": "Niger",
+ "dial_code": "+227",
+ "country_code": "NE",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891860/country_flags/niger.gif",
+ "timezone": "UTC+01:00 (WAT)"
+ }, {
+ "country_name": "Nigeria",
+ "dial_code": "+234",
+ "country_code": "NG",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891860/country_flags/nigeria.gif",
+ "timezone": "UTC+01:00 (WAT)"
+ }, {
+ "country_name": "Niue",
+ "dial_code": "+683",
+ "country_code": "NU",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891860/country_flags/niue.gif",
+ "timezone": "UTC-11:00"
+ }, {
+ "country_name": "Norfolk Island",
+ "dial_code": "+672",
+ "country_code": "NF",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891860/country_flags/norfolk_island.gif",
+ "timezone": "UTC+11:00 (NFT)"
+ }, {
+ "country_name": "Northern Mariana Islands",
+ "dial_code": "+1 670",
+ "country_code": "MP",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891861/country_flags/northern_mariana_islands.gif",
+ "timezone": "UTC+10:00 (ChT)"
+ }, {
+ "country_name": "Norway",
+ "dial_code": "+47",
+ "country_code": "NO",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891861/country_flags/norway.gif",
+ "timezone": "UTC+01:00 (CET)"
+ }, {
+ "country_name": "Oman",
+ "dial_code": "+968",
+ "country_code": "OM",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891861/country_flags/oman.gif",
+ "timezone": "UTC+04:00"
+ }, {
+ "country_name": "Pakistan",
+ "dial_code": "+92",
+ "country_code": "PK",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891861/country_flags/pakistan.gif",
+ "timezone": "UTC+05:00 (PKT)"
+ }, {
+ "country_name": "Palau",
+ "dial_code": "+680",
+ "country_code": "PW",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891861/country_flags/palau.gif",
+ "timezone": "UTC+09:00"
+ }, {
+ "country_name": "Panama",
+ "dial_code": "+507",
+ "country_code": "PA",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891862/country_flags/panama.gif",
+ "timezone": "UTC-05:00"
+ }, {
+ "country_name": "Papua New Guinea",
+ "dial_code": "+675",
+ "country_code": "PG",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891862/country_flags/papua_new_guinea.gif",
+ "timezone": "UTC+10:00"
+ }, {
+ "country_name": "Paraguay",
+ "dial_code": "+595",
+ "country_code": "PY",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891862/country_flags/paraguay.gif",
+ "timezone": "UTC-04:00"
+ }, {
+ "country_name": "Peru",
+ "dial_code": "+51",
+ "country_code": "PE",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891862/country_flags/peru.gif",
+ "timezone": "UTC-05:00 (PET)"
+ }, {
+ "country_name": "Philippines",
+ "dial_code": "+63",
+ "country_code": "PH",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891863/country_flags/philippines.gif",
+ "timezone": "UTC+08:00 (PHT)"
+ }, {
+ "country_name": "Poland",
+ "dial_code": "+48",
+ "country_code": "PL",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891863/country_flags/poland.gif",
+ "timezone": "UTC+01:00 (CET)"
+ }, {
+ "country_name": "Portugal",
+ "dial_code": "+351",
+ "country_code": "PT",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891864/country_flags/portugal.gif",
+ "timezone": "UTC (WET)"
+ }, {
+ "country_name": "Puerto Rico",
+ "dial_code": "+1 939",
+ "country_code": "PR",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891864/country_flags/puerto_rico.gif",
+ "timezone": "UTC-04:00 (AT)"
+ }, {
+ "country_name": "Qatar",
+ "dial_code": "+974",
+ "country_code": "QA",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891864/country_flags/qatar.gif",
+ "timezone": "UTC+03:00 (Arabia Standard Time)"
+ }, {
+ "country_name": "Romania",
+ "dial_code": "+40",
+ "country_code": "RO",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891864/country_flags/romania.gif",
+ "timezone": "UTC+02:00 (EET)"
+ }, {
+ "country_name": "Rwanda",
+ "dial_code": "+250",
+ "country_code": "RW",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891865/country_flags/rwanda.gif",
+ "timezone": "UTC+02:00 (CAT)"
+ }, {
+ "country_name": "Samoa",
+ "dial_code": "+685",
+ "country_code": "WS",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891867/country_flags/samoa.gif",
+ "timezone": "UTC+13:00"
+ }, {
+ "country_name": "San Marino",
+ "dial_code": "+378",
+ "country_code": "SM",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891867/country_flags/san_marino.gif",
+ "timezone": "UTC+01:00 (CET)"
+ }, {
+ "country_name": "Saudi Arabia",
+ "dial_code": "+966",
+ "country_code": "SA",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891867/country_flags/saudi_arabia.gif",
+ "timezone": "UTC+03:00 (Arabia Standard Time)"
+ }, {
+ "country_name": "Senegal",
+ "dial_code": "+221",
+ "country_code": "SN",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891868/country_flags/senegal.gif",
+ "timezone": "UTC (GMT)"
+ }, {
+ "country_name": "Serbia",
+ "dial_code": "+381",
+ "country_code": "RS",
+ "timezone": "UTC+01:00 (CET)",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891869/country_flags/serbia.gif"
+ }, {
+ "country_name": "Seychelles",
+ "dial_code": "+248",
+ "country_code": "SC",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891869/country_flags/seychelles.gif",
+ "timezone": "UTC+04:00 (Seychelles Time)"
+ }, {
+ "country_name": "Sierra Leone",
+ "dial_code": "+232",
+ "country_code": "SL",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891869/country_flags/sierra_leone.gif",
+ "timezone": "UTC (GMT)"
+ }, {
+ "country_name": "Singapore",
+ "dial_code": "+65",
+ "country_code": "SG",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891869/country_flags/singapore.gif",
+ "timezone": "UTC+08:00 (SST)"
+ }, {
+ "country_name": "Slovakia",
+ "dial_code": "+421",
+ "country_code": "SK",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891870/country_flags/slovakia.gif",
+ "timezone": ""
+ }, {
+ "country_name": "Slovenia",
+ "dial_code": "+386",
+ "country_code": "SI",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891869/country_flags/slovenia.gif",
+ "timezone": "UTC+01:00 (CET)"
+ }, {
+ "country_name": "Solomon Islands",
+ "dial_code": "+677",
+ "country_code": "SB",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891870/country_flags/solomon_islands.gif",
+ "timezone": "UTC+11:00"
+ }, {
+ "country_name": "South Africa",
+ "dial_code": "+27",
+ "country_code": "ZA",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891870/country_flags/south_africa.gif",
+ "timezone": "UTC+02:00 (South African Standard Time)"
+ }, {
+ "country_name": "South Georgia and the South Sandwich Islands",
+ "dial_code": "+500",
+ "country_code": "GS",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891870/country_flags/south_georgia_and_the_south_sandwich_islands.gif",
+ "timezone": "UTC-02:00"
+ }, {
+ "country_name": "Spain",
+ "dial_code": "+34",
+ "country_code": "ES",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891871/country_flags/spain.gif",
+ "timezone": "UTC+01:00 (CET)"
+ }, {
+ "country_name": "Sri Lanka",
+ "dial_code": "+94",
+ "country_code": "LK",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891871/country_flags/sri_lanka.gif",
+ "timezone": "UTC+05:30 (SLST)"
+ }, {
+ "country_name": "Sudan",
+ "dial_code": "+249",
+ "country_code": "SD",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891871/country_flags/sudan.gif",
+ "timezone": "UTC+03:00 (EAT)"
+ 
+ }, {
+ "country_name": "Suriname",
+ "dial_code": "+597",
+ "country_code": "SR",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891871/country_flags/suriname.gif",
+ "timezone": "UTC-03:00"
+ }, {
+ "country_name": "Swaziland",
+ "dial_code": "+268",
+ "country_code": "SZ",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891871/country_flags/swaziland.gif",
+ "timezone": "UTC+02:00"
+ }, {
+ "country_name": "Sweden",
+ "dial_code": "+46",
+ "country_code": "SE",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891871/country_flags/sweden.gif",
+ "timezone": "UTC+01:00 (CET)"
+ }, {
+ "country_name": "Switzerland",
+ "dial_code": "+41",
+ "country_code": "CH",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891872/country_flags/switzerland.gif",
+ "timezone": "UTC+01:00 (CET)"
+ }, {
+ "country_name": "Tajikistan",
+ "dial_code": "+992",
+ "country_code": "TJ",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891872/country_flags/tajikistan.gif",
+ "timezone": "UTC+05:00"
+ }, {
+ "country_name": "Thailand",
+ "dial_code": "+66",
+ "country_code": "TH",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891872/country_flags/thailand.gif",
+ "timezone": "UTC+07:00 (THA)"
+ }, {
+ "country_name": "Togo",
+ "dial_code": "+228",
+ "country_code": "TG",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891872/country_flags/togo.gif",
+ "timezone": "UTC (GMT)"
+ }, {
+ "country_name": "Tokelau",
+ "dial_code": "+690",
+ "country_code": "TK",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891873/country_flags/tokelau.gif",
+ "timezone": "UTC+13:00"
+ }, {
+ "country_name": "Tonga",
+ "dial_code": "+676",
+ "country_code": "TO",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891873/country_flags/tonga.gif",
+ "timezone": "UTC (GMT)"
+ }, {
+ "country_name": "Trinidad and Tobago",
+ "dial_code": "+1 868",
+ "country_code": "TT",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891873/country_flags/trinidad_and_tobago.gif",
+ "timezone": "UTC-04:00"
+ }, {
+ "country_name": "Tunisia",
+ "dial_code": "+216",
+ "country_code": "TN",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891873/country_flags/tunisia.gif",
+ "timezone": "UTC+01:00 (CET)"
+ }, {
+ "country_name": "Turkey",
+ "dial_code": "+90",
+ "country_code": "TR",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891873/country_flags/turkey.gif",
+ "timezone": "UTC+02:00 (EET)"
+ }, {
+ "country_name": "Turkmenistan",
+ "dial_code": "+993",
+ "country_code": "TM",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891874/country_flags/turkmenistan.gif",
+ "timezone": "UTC+05:00"
+ }, {
+ "country_name": "Turks and Caicos Islands",
+ "dial_code": "+1 649",
+ "country_code": "TC",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891874/country_flags/turks_and_caicos_islands.gif",
+ "timezone": "UTC-04:00 (AST)"
+ }, {
+ "country_name": "Tuvalu",
+ "dial_code": "+688",
+ "country_code": "TV",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891874/country_flags/tuvalu.gif",
+ "timezone": "UTC+12:00"
+ }, {
+ "country_name": "Uganda",
+ "dial_code": "+256",
+ "country_code": "UG",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891874/country_flags/uganda.gif",
+ "timezone": "UTC+03:00 (EAT)"
+ }, {
+ "country_name": "Ukraine",
+ "dial_code": "+380",
+ "country_code": "UA",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891874/country_flags/ukraine.gif",
+ "timezone": "UTC+02:00[1] (EET)"
+ }, {
+ "country_name": "United Arab Emirates",
+ "dial_code": "+971",
+ "country_code": "AE",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891874/country_flags/united_arab_emirates.gif",
+ "timezone": "UTC+04:00"
+ }, {
+ "country_name": "United Kingdom",
+ "dial_code": "+44",
+ "country_code": "GB",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891875/country_flags/united_kingdom.gif",
+ "timezone": "UTC (GMT)"
+ }, {
+ "country_name": "United States",
+ "dial_code": "+1",
+ "country_code": "US",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891875/country_flags/united_states_of_america.gif",
+ "timezone": "UTC-07:00 (MT)"
+ }, {
+ "country_name": "Uruguay",
+ "dial_code": "+598",
+ "country_code": "UY",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891875/country_flags/uruguay.gif",
+ "timezone": "UTC-03:00"
+ }, {
+ "country_name": "Uzbekistan",
+ "dial_code": "+998",
+ "country_code": "UZ",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891875/country_flags/uzbekistan.gif",
+ "timezone": "UTC+05:00 (Uzbekistan Time)"
+ }, {
+ "country_name": "Vanuatu",
+ "dial_code": "+678",
+ "country_code": "VU",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891875/country_flags/vanuatu.gif",
+ "timezone": "UTC+11:00"
+ }, {
+ "country_name": "Wallis and Futuna",
+ "dial_code": "+681",
+ "country_code": "WF",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891877/country_flags/wallis_and_futuna.gif",
+ "timezone": "UTC+12:00"
+ }, {
+ "country_name": "Yemen",
+ "dial_code": "+967",
+ "country_code": "YE",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891877/country_flags/yemen.gif",
+ "timezone": "UTC+03:00"
+ }, {
+ "country_name": "Zambia",
+ "dial_code": "+260",
+ "country_code": "ZM",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891878/country_flags/zambia.gif",
+ "timezone": "UTC+02:00 (CAT)"
+ }, {
+ "country_name": "Western Sahara",
+ "dial_code": "+212",
+ "country_code": "EH",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891877/country_flags/western_sahara.gif",
+ "timezone": "UTC+00:00"
+ }, {
+ "country_name": "Zimbabwe",
+ "dial_code": "+263",
+ "country_code": "ZW",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891878/country_flags/zimbabwe.gif",
+ "timezone": "UTC+02:00 (CAT)"
+ }, {
+ "country_name": "Åland Islands",
+ "dial_code": "+358",
+ "country_code": "AX",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891878/country_flags/aland_islands.gif",
+ "timezone": "UTC+02:00 (EET)"
+ }, {
+ "country_name": "Antarctica",
+ "dial_code": "+672",
+ "country_code": "AQ",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891830/country_flags/antarctica.gif",
+ "timezone": "While Antarctica is not a country, it has at least 10 unofficial time zones."
+ }, {
+ "country_name": "Bolivia, Plurinational State of",
+ "dial_code": "+591",
+ "country_code": "BO",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891831/country_flags/bolivia.gif",
+ "timezone": "UTC-04:00"
+ }, {
+ "country_name": "Brunei Darussalam",
+ "dial_code": "+673",
+ "country_code": "BN",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891833/country_flags/brunei.gif",
+ "timezone": "UTC+08:00"
+ }, {
+ "country_name": "Cocos (Keeling) Islands",
+ "dial_code": "+61",
+ "country_code": "CC",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891833/country_flags/cocos_islands.gif",
+ "timezone": "UTC+06:30 (CCT)"
+ }, {
+ "country_name": "Cote d'Ivoire",
+ "dial_code": "+225",
+ "country_code": "CI",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891837/country_flags/cote_d_Ivoire.gif",
+ "timezone": "UTC (GMT)"
+ }, {
+ "country_name": "Falkland Islands (Malvinas)",
+ "dial_code": "+500",
+ "country_code": "FK",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891842/country_flags/falkland_islands.gif",
+ "timezone": "UTC-03:00 (FKST)"
+ }, {
+ "country_name": "Guernsey",
+ "dial_code": "+44",
+ "country_code": "GG",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891842/country_flags/guernsey.gif",
+ "timezone": "UTC+01:00 (DST)"
+ }, {
+ "country_name": "Holy See (Vatican City State)",
+ "dial_code": "+379",
+ "country_code": "VA",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891876/country_flags/vatican_city.gif",
+ "timezone": "UTC+01:00 (CET)"
+ }, {
+ "country_name": "Hong Kong",
+ "dial_code": "+852",
+ "country_code": "HK",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891847/country_flags/hong_kong.gif",
+ "timezone": "UTC+08:00 (HKT)"
+ }, {
+ "country_name": "Iran, Islamic Republic of",
+ "dial_code": "+98",
+ "country_code": "IR",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891848/country_flags/iran.gif",
+ "timezone": "UTC+03:30 (IRST)"
+ }, {
+ "country_name": "Isle of Man",
+ "dial_code": "+44",
+ "country_code": "IM",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891848/country_flags/isle_of_man.gif",
+ "timezone": "UTC"
+ }, {
+ "country_name": "Jersey",
+ "dial_code": "+44",
+ "country_code": "JE",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891848/country_flags/jersey.gif",
+ "timezone": "UTC+01:00 (DST)"
+ }, {
+ "country_name": "Korea, Democratic People's Republic of",
+ "dial_code": "+850",
+ "country_code": "KP",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891850/country_flags/korea_north.gif",
+ "timezone": "UTC+08:30 (Pyongyang Time)"
+ }, {
+ 
+ "country_name": "Kosovo",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891851/country_flags/kosovo.gif",
+ "dial_code": "+82",
+ "country_code": "KV",
+ "timezone": "UTC+01:00"
+ }, {
+ "country_name": "Korea, Republic of",
+ "dial_code": "+82",
+ "country_code": "KR",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891851/country_flags/korea_south.gif",
+ "timezone": "UTC+09:00 (Korea Standard Time)"
+ }, {
+ "country_name": "Lao People's Democratic Republic",
+ "dial_code": "+856",
+ "country_code": "LA",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891851/country_flags/laos.gif",
+ "timezone": "UTC+07:00"
+ }, {
+ "country_name": "Libya",
+ "dial_code": "+218",
+ "country_code": "LY",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891852/country_flags/libya.gif",
+ "timezone": "UTC+02:00 (EET)"
+ }, {
+ "country_name": "Macao",
+ "dial_code": "+853",
+ "country_code": "MO",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891853/country_flags/macao.gif",
+ "timezone": "UTC+08:00 (Macau Standard Time)"
+ }, {
+ "country_name": "Macedonia, The Former Yugoslav Republic of",
+ "dial_code": "+389",
+ "country_code": "MK",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891853/country_flags/macedonia.gif",
+ "timezone": "UTC+01:00 (CET)"
+ }, {
+ "country_name": "Micronesia, Federated States of",
+ "dial_code": "+691",
+ "country_code": "FM",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891856/country_flags/micronesia.gif",
+ "timezone": "UTC+10:00"
+ }, {
+ "country_name": "Moldova, Republic of",
+ "dial_code": "+373",
+ "country_code": "MD",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891856/country_flags/moldova.gif",
+ "timezone": "UTC+02:00 (EET)"
+ }, {
+ "country_name": "Mozambique",
+ "dial_code": "+258",
+ "country_code": "MZ",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891858/country_flags/mozambique.gif",
+ "timezone": "UTC+02:00 (CAT)"
+ }, {
+ "country_name": "Palestinian Territory, Occupied",
+ "dial_code": "+970",
+ "country_code": "PS",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891862/country_flags/palestinian_territory.gif",
+ "timezone": ""
+ }, {
+ "country_name": "Pitcairn",
+ "dial_code": "+64",
+ "country_code": "PN",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891863/country_flags/pitcairn_islands.gif",
+ "timezone": "UTC-08:00"
+ }, {
+ "country_name": "Russia",
+ "dial_code": "+7",
+ "country_code": "RU",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891864/country_flags/russia.gif",
+ "timezone": "UTC (GMT)"
+ }, {
+ "country_name": "Saint Barthélemy",
+ "dial_code": "+590",
+ "country_code": "BL",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891833/country_flags/saint_barthelemy.gif",
+ "timezone": "UTC-04:00 (AST)"
+ }, {
+ "country_name": "Saint Helena, Ascension and Tristan Da Cunha",
+ "dial_code": "+290",
+ "country_code": "SH",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891833/country_flags/saint_helena.gif",
+ "timezone": "UTC"
+ }, {
+ "country_name": "Saint Kitts and Nevis",
+ "dial_code": "+1 869",
+ "country_code": "KN",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891866/country_flags/saint_kitts_and_nevis.gif",
+ "timezone": "UTC-04:00"
+ }, {
+ "country_name": "Saint Lucia",
+ "dial_code": "+1 758",
+ "country_code": "LC",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891865/country_flags/saint_lucia.gif",
+ "timezone": "UTC-04:00"
+ }, {
+ "country_name": "Saint Martin",
+ "dial_code": "+590",
+ "country_code": "MF",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891866/country_flags/saint_martin.gif",
+ "timezone": ""
+ }, {
+ "country_name": "Saint Pierre and Miquelon",
+ "dial_code": "+508",
+ "country_code": "PM",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891866/country_flags/saint_pierre_and_miquelon.gif",
+ "timezone": "UTC-02:00 (DST)"
+ }, {
+ "country_name": "Saint Vincent and the Grenadines",
+ "dial_code": "+1 784",
+ "country_code": "VC",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891866/country_flags/saint_vincent_and_the_grenadines.gif",
+ "timezone": "UTC-04:00"
+ }, {
+ "country_name": "Sao Tome and Principe",
+ "dial_code": "+239",
+ "country_code": "ST",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891867/country_flags/sao_tome_and_principe.gif",
+ "timezone": "UTC (GMT)"
+ }, {
+ "country_name": "Somalia",
+ "dial_code": "+252",
+ "country_code": "SO",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891870/country_flags/somalia.gif",
+ "timezone": "UTC+03:00 (EAT)"
+ }, {
+ "country_name": "Svalbard and Jan Mayen",
+ "dial_code": "+47",
+ "country_code": "SJ",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891871/country_flags/svalbard_and_jan_mayen.gif",
+ "timezone": "UTC+02:00"
+ }, {
+ "country_name": "Syrian Arab Republic",
+ "dial_code": "+963",
+ "country_code": "SY",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891872/country_flags/syria.gif",
+ "timezone": "UTC+02:00 (EET)"
+ }, {
+ "country_name": "Taiwan, Province of China",
+ "dial_code": "+886",
+ "country_code": "TW",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891864/country_flags/republic_of_china.gif",
+ "timezone": "UTC+08:00"
+ }, {
+ "country_name": "Tanzania, United Republic of",
+ "dial_code": "+255",
+ "country_code": "TZ",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891872/country_flags/tanzania.gif",
+ "timezone": "UTC+03:00 (EAT)"
+ }, {
+ "country_name": "Timor-Leste",
+ "dial_code": "+670",
+ "country_code": "TL",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472972883/country_flags/timor_leste.gif",
+ "timezone": "UTC+09:00"
+ }, {
+ "country_name": "Venezuela, Bolivarian Republic of",
+ "dial_code": "+58",
+ "country_code": "VE",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891876/country_flags/venezuela.gif",
+ "timezone": "UTC-04:00"
+ }, {
+ "country_name": "Viet Nam",
+ "dial_code": "+84",
+ "country_code": "VN",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891876/country_flags/vietnam.gif",
+ "timezone": "UTC+07:00 (Indochina Time)"
+ }, {
+ "country_name": "Virgin Islands, British",
+ "dial_code": "+1 284",
+ "country_code": "VG",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891876/country_flags/virgin_islands_british.gif",
+ "timezone": "UTC-04:00 (AST)"
+ }, {
+ "country_name": "Virgin Islands, U.S.",
+ "dial_code": "+1 340",
+ "country_code": "VI",
+ "flag_url": "http://res.cloudinary.com/ducixxxyx/image/upload/v1472891877/country_flags/virgin_islands_us.gif",
+ "timezone": "UTC-04:00 (AT)"
+ }]
